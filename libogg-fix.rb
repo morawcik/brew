@@ -1,4 +1,4 @@
-class Libogg < Formula
+class LiboggFix < Formula
   desc "Ogg Bitstream Library"
   homepage "https://www.xiph.org/ogg/"
   url "https://ftp.osuosl.org/pub/xiph/releases/ogg/libogg-1.3.5.tar.gz"
